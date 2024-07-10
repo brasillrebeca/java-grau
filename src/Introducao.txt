@@ -1,0 +1,18 @@
+Projeto: Sistema de Gestão de Loja
+Este projeto será um sistema simples de gestão de loja, onde podemos gerenciar produtos e serviços ofeecidos pelo estabeleciemnto.
+O projeto terá as seguintes classes principais:
+
+ItemLoja (Classe Abstrata)
+Celular (Subclasse de ItemLoja)
+Notebook (Subclasse de ItemLoja)
+ServicoAssistencia (Subclasse de ItemLoja)
+Loja (Classe para Gerenciamento dos Itens)
+
+Estrutura do Projeto
+
+Classe I4
+Subclasse Celular
+Subclasse Notebook
+Subclasse ServicoAssistencia
+Classe Loja
+Classe Main para Testar o Sistema
